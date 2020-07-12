@@ -1,3 +1,3 @@
 # Dicee 🎲
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+![Finished App](https://raw.githubusercontent.com/Manish-Singh25/readme-images/master/dicee-demo.gif)
